@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/front-prac/static/css/main.e8f2e9f0.chunk.css",
+    "main.js": "/front-prac/static/js/main.df2a298a.chunk.js",
+    "main.js.map": "/front-prac/static/js/main.df2a298a.chunk.js.map",
+    "runtime-main.js": "/front-prac/static/js/runtime-main.b0aa6b2a.js",
+    "runtime-main.js.map": "/front-prac/static/js/runtime-main.b0aa6b2a.js.map",
+    "static/js/2.607838f1.chunk.js": "/front-prac/static/js/2.607838f1.chunk.js",
+    "static/js/2.607838f1.chunk.js.map": "/front-prac/static/js/2.607838f1.chunk.js.map",
+    "index.html": "/front-prac/index.html",
+    "static/css/main.e8f2e9f0.chunk.css.map": "/front-prac/static/css/main.e8f2e9f0.chunk.css.map",
+    "static/js/2.607838f1.chunk.js.LICENSE.txt": "/front-prac/static/js/2.607838f1.chunk.js.LICENSE.txt",
+    "static/media/ipad.7620d5fa.png": "/front-prac/static/media/ipad.7620d5fa.png",
+    "static/media/logo-chrome.f0378390.jpg": "/front-prac/static/media/logo-chrome.f0378390.jpg",
+    "static/media/logo-firefox.d2320484.jpg": "/front-prac/static/media/logo-firefox.d2320484.jpg",
+    "static/media/logo-opera.7d9021c7.jpg": "/front-prac/static/media/logo-opera.7d9021c7.jpg",
+    "static/media/tab0.263ba8da.png": "/front-prac/static/media/tab0.263ba8da.png",
+    "static/media/tab1.58da4438.png": "/front-prac/static/media/tab1.58da4438.png",
+    "static/media/tab2.ac1c9ed9.png": "/front-prac/static/media/tab2.ac1c9ed9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0aa6b2a.js",
+    "static/js/2.607838f1.chunk.js",
+    "static/css/main.e8f2e9f0.chunk.css",
+    "static/js/main.df2a298a.chunk.js"
+  ]
+}
